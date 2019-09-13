@@ -1,0 +1,4 @@
+python developer
+django web developer
+ui frontend developer
+mysql database
